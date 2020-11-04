@@ -68,6 +68,5 @@ This will use the same csv file to delete, you can amend the file or provide a n
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
-
+Give a ⭐️ if this project helped you! This project was inspired by [Darey.IO](https://darey.io/)
 ***
