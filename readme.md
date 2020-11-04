@@ -32,6 +32,8 @@ The following permission has been set for the relevant files and folders[(Permis
 * ~/.ssh/id_rsa - 600
 * ~/.ssh/id_rsa.pub - 644
 
+The aim of the script is also to allow SSH access from localhost and also from my local machine.
+The public key -authenticated_keys needs the local machine hostname added.
 
 **deluser**
 
@@ -39,7 +41,9 @@ The following permission has been set for the relevant files and folders[(Permis
 This will use the same csv file to delete, you can amend the file or provide a new file name within the code.
 
 
-
+### FYI - Secrets/Private key & Public Key
+secrets.id_rsa - my private key for SSH
+secrets.id_rsa.pub - my public key for SSH
 
 
 
