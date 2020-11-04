@@ -19,7 +19,7 @@ There are three files available:
 
 Before running the scripts you must provide permission to run the script:
 ```
-chmod +x newuser.sh
+chmod +x onboarding users
 ```
 \
 **Onboarding user**
